@@ -1,2 +1,2 @@
 # Mortgage-Calculator
-Calculates monthly mortgage payments.
+Calculates monthly mortgage payments
